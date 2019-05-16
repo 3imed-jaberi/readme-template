@@ -10,7 +10,8 @@
  [![Buy me a book][badge_amazon]][amazon]
 <!-- paypal logo -->
  [![PayPal][badge_paypal_donate]][paypal-donations
-
+<!-- others logo -->
+ https://shields.io/category/build
 
 
 ## What technologies that i used ?
